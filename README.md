@@ -14,6 +14,7 @@ Our artifact includes
 * [docs/](docs/): Contains the study results and the second application: visualization, both of which have been deployed on https://unifiedqueryplan.github.io/.
 * [tpc-h/](tpc-h/): Contains the scripts to configure TPC-H benchmark and experimental data for the third application: benchmarking.
 * [wdbench](wdbench/): Contains the scripts to configure the WDBench benchmark and experimental data for the third application: benchmarking.
+* [ycsb](ycsb/): Contains the scripts to configure the YCSB benchmark and experimental data for the third application: benchmarking.
 
 * Other python files are the reusable library **UPlan** for converting query plans into the unified representation. Please see below for more details.
 
